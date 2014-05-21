@@ -1,0 +1,14 @@
+<document>
+  <properties>
+    <title>ZKIB DB Module Changes</title>
+    <author email="bbuades@dgtic.caib.es">Gabriel Buades</author>
+  </properties>
+  <body>
+    <release version="1.3" date="2009-04-03" description="Versión inicial">
+      <action dev="u07286" type="add">
+      	Dentro del JXPathContext se puede indicar si las excepciones deben ser ignoradas o reportadas
+      </action>
+    </release>
+
+  </body>
+</document>
